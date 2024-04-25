@@ -13,7 +13,7 @@ Websocets, Celery, Redis, OpenCV and Selenium
 - [SQL](https://udemy-certificate.s3.amazonaws.com/pdf/UC-23954e23-fb28-4481-992e-58f699f9f2dd.pdf)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/BobojonovSobir0576/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BobojonovSobir0576" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
